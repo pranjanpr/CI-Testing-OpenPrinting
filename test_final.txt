@@ -1,0 +1,4 @@
+# Input file	Input type	Output file	Output type	Make	Model	Color?	Duplex?	Formats	Job-ID	User	Title	Copies	Options
+.bashrc	text/plain	bashrc.urf	image/urf	Generic	Gray 1	0	1	image/pwg-raster,image/urf,application/pdf	23	pratyush	custom-print	2	sides=two-sided-long-edge media-size=A4 printer-resolution=600dpi
+CityMap.pdf	application/pdf	cityMap.pwg	image/pwg-raster	Generic	PDF Color 2	1	1	image/pwg-raster,image/urf,application/pdf	23	pratyush	custom-print	3	sides=two-sided-short-edge media-size=A4 printer-resolution=300dpi
+cityMap.pdf	application/pdf	cityMap.pwg	image/pwg-raster	Generic	CheapoPrint 3	1	1	image/pwg-raster,image/urf	24	pratyush	custom-print	4	sides=two-sided-short-edge media-size=A4 printer-resolution=300dpi
